@@ -29,3 +29,19 @@ Autogen Studio Test
 ### Activate conda env
 
       $ conda activate agStudio
+
+## pip install
+      $ pip install autogenstudio
+
+
+## export Open AI key
+      $ export OPENAI_API_KEY={KEY}
+
+ ## set port
+       $ autogenstudio ui --port 8081
+
+
+# LOCAL SETUP
+## Ollama and liteLLM
+[Ollama](https://ollama.ai/)
+[LiteLLM](https://github.com/BerriAI/litellm)
